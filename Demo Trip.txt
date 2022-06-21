@@ -1,0 +1,74 @@
+Transaction Summary:
+
+    Amy should pay Bob 47.2
+    Carter should pay Bob 278.87
+    Daniel should pay Bob 253.87
+    Emily should pay Bob 247.2
+
+Payment Breakdown:
+
+Amy:
+    owes 47.2 
+
+  Should pay:
+    Bob: 47.2 
+
+  Breakdown: 
+    160.0: Train Tickets 
+    -200.0: Accommodation 
+    -7.2: Museum Tickets (13 Jun) 
+
+Bob:
+    owed 827.13 
+
+  Should be paid by:
+    Carter: 278.87 
+    Daniel: 253.87 
+    Emily: 247.2 
+    Amy: 47.2 
+
+  Breakdown: 
+    -40.0: Train Tickets 
+    800.0: Accommodation 
+    5.0: Maccies (11 Jun) 
+    33.33: Dinner (12 Jun) 
+    28.8: Museum Tickets (13 Jun) 
+
+Carter:
+    owes 278.87 
+
+  Should pay:
+    Bob: 278.87 
+
+  Breakdown: 
+    -40.0: Train Tickets 
+    -200.0: Accommodation 
+    -5.0: Maccies (11 Jun) 
+    -10.0: Uber (12 Jun) 
+    -16.67: Dinner (12 Jun) 
+    -7.2: Museum Tickets (13 Jun) 
+
+Daniel:
+    owes 253.87 
+
+  Should pay:
+    Bob: 253.87 
+
+  Breakdown: 
+    -40.0: Train Tickets 
+    -200.0: Accommodation 
+    10.0: Uber (12 Jun) 
+    -16.67: Dinner (12 Jun) 
+    -7.2: Museum Tickets (13 Jun) 
+
+Emily:
+    owes 247.2 
+
+  Should pay:
+    Bob: 247.2 
+
+  Breakdown: 
+    -40.0: Train Tickets 
+    -200.0: Accommodation 
+    -7.2: Museum Tickets (13 Jun) 
+

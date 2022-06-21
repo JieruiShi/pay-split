@@ -1,0 +1,14 @@
+﻿Members,Payer,Amount,paidFor,includeSelf,transaction note
+Amy,Amy,200,,,Train Tickets
+Bob,Bob,1000,,,Accommodation
+Carter,Bob,5,Carter,FALSE,Maccies (11 Jun)
+Daniel,Daniel,20,Carter,,Uber (12 Jun)
+Emily,Bob,50,"Carter, Daniel",,Dinner (12 Jun)
+,Bob,36,,,Museum Tickets (13 Jun)
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
